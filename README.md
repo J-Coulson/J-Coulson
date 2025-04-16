@@ -7,7 +7,7 @@ Electronic design Engineer currently working in embedded C for PIC microcontroll
 - Fault finding and troubleshooting
 
 ### Languages known:
-- C (but none of your fancy C++)
+- C
 - Python
 - PHP
 
